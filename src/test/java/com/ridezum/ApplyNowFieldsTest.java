@@ -25,22 +25,19 @@ public class ApplyNowFieldsTest extends BaseTest{
    driverPage.inputEmailField("Super16@gmail.com");
    driverPage.inputPhoneNumber("23657634654");
    /*
-   driverPage.inputRegion("Califoniy");
-   driverPage.inputZipCod("95608");
-   driverPage.inputRefCod("0976");
-
+   driverPage.inputRegion("Californiy");
 
     */
-    /*
-    Random random = new Random();
-    int randomNumber = random.nextInt(6);
+   Random random = new Random();
+   int randomSelectRegion = random.nextInt(6);
+   driverPage.selectRegion(3);
 
 
- /*
+   driverPage.inputZipCodeField("95608");
+   driverPage.inputRefCodeField("0976");
 
+   driver.switchTo().defaultContent();
 
-
-     */
     }
 
 }

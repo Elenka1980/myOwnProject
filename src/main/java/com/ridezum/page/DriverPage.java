@@ -24,9 +24,19 @@ public class DriverPage extends BasePage{
     @FindBy(css = "#application_form_phone_number")
     private WebElement phoneNumberField;
 
+    @FindBy(css = "option")
+    private List<WebElement>regionField;
+
+    @FindBy(css = "#application_form_zipcode")
+    private WebElement zipCodeField;
+
+    @FindBy(css = "#application_form_refcode")
+    private WebElement refCodeField;
 
 
-    public void inputFirstName(String firstName) {
+
+    public void inputFirstName(String firstName)
+    {
         firstNameField.sendKeys(firstName);
     }
     public void inputLastName(String lastName) {
@@ -38,32 +48,15 @@ public class DriverPage extends BasePage{
     public void inputPhoneNumber(String phoneNumber) {
         phoneNumberField.sendKeys(phoneNumber);
     }
-
-
-/*
-    public void inputFirstName(String firstName) {
-
+    public void selectRegion(int i) {
+        regionField.get(1).click();
     }
-    public void inputLastName(String lastName) {
-        applyNowFields.get(1).sendKeys(lastName);
+    public void inputZipCodeField(String zipCode) {
+        zipCodeField.sendKeys(zipCode);
     }
-    public void inputEmail(String email) {
-        applyNowFields.get(2).sendKeys(email);
+    public void inputRefCodeField(String refCode) {
+        refCodeField.sendKeys(refCode);
     }
-    public void inputPhoneNumber(String phoneNumber) {
-        applyNowFields.get(3).sendKeys(phoneNumber);
-    }
-    public void inputRegion(String region) {
-        applyNowFields.get(4).sendKeys(region);
-    }
-    public void inputZipCod(String zipCode) {
-        applyNowFields.get(5).sendKeys(zipCode);
-    }
-    public void inputRefCod(String refCode) {
-        applyNowFields.get(6).sendKeys(refCode);
-    }
-
- */
 
 
 
