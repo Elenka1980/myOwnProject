@@ -33,6 +33,9 @@ public class DriverPage extends BasePage{
     @FindBy(css = "#application_form_refcode")
     private WebElement refCodeField;
 
+    @FindBy(css = ".main-menu__link")
+    private List<WebElement>submitButton;
+
 
 
     public void inputFirstName(String firstName)
@@ -57,6 +60,10 @@ public class DriverPage extends BasePage{
     public void inputRefCodeField(String refCode) {
         refCodeField.sendKeys(refCode);
     }
+    public void clickSubmitButton(int i) {
+        submitButton.get(i).click();
+    }
+
 
 
 

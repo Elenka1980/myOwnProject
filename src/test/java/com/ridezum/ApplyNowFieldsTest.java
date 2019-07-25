@@ -23,7 +23,7 @@ public class ApplyNowFieldsTest extends BaseTest{
    driverPage.inputFirstName("Alina");
    driverPage.inputLastName("Dorina");
    driverPage.inputEmailField("Super16@gmail.com");
-   driverPage.inputPhoneNumber("23657634654");
+   driverPage.inputPhoneNumber("9164909515");
    /*
    driverPage.inputRegion("Californiy");
 
@@ -37,6 +37,9 @@ public class ApplyNowFieldsTest extends BaseTest{
    driverPage.inputRefCodeField("0976");
 
    driver.switchTo().defaultContent();
+   driver.switchTo().defaultContent();
+
+   driverPage.clickSubmitButton(4);
 
     }
 

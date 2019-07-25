@@ -25,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="85">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+            <state relative-caret-position="352">
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyToDriveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="272">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,12 +85,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="359">
+              <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
                 <element signature="e#790#791#0" expanded="true" />
                 <element signature="e#838#839#0" expanded="true" />
                 <element signature="e#886#887#0" expanded="true" />
@@ -103,6 +103,8 @@
                 <element signature="e#1386#1387#0" expanded="true" />
                 <element signature="e#1541#1542#0" expanded="true" />
                 <element signature="e#1568#1569#0" expanded="true" />
+                <element signature="e#1733#1734#0" expanded="true" />
+                <element signature="e#1760#1761#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,8 +133,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyToDriveTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ridezum/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java" />
       </list>
     </option>
   </component>
@@ -144,10 +146,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="61" />
-    <option name="y" value="31" />
-    <option name="width" value="1680" />
-    <option name="height" value="975" />
+    <option name="x" value="251" />
+    <option name="y" value="177" />
+    <option name="width" value="1355" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -235,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ApplyNowFieldsTest">
+  <component name="RunManager" selected="JUnit.ApplyNowFieldsTest.testApplyNowFields">
     <configuration name="ApplyNowFieldsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myOwnProject" />
       <extension name="coverage">
@@ -300,8 +302,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ApplyNowFieldsTest" />
         <item itemvalue="JUnit.ApplyNowFieldsTest.testApplyNowFields" />
+        <item itemvalue="JUnit.ApplyNowFieldsTest" />
         <item itemvalue="JUnit.ApplyToDriveTest" />
         <item itemvalue="JUnit.ApplyToDriveTest.testApplyToDrive" />
       </list>
@@ -321,34 +323,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.23 at 21h 16m 08s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.23 at 21h 17m 28s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.23 at 21h 30m 56s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.23 at 21h 34m 45s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.23 at 21h 40m 30s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.23 at 21h 42m 17s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest - 2019.07.23 at 22h 40m 46s.xml">
-      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest - 2019.07.24 at 15h 41m 30s.xml">
-      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApplyNowFieldsTest - 2019.07.24 at 15h 53m 31s.xml">
-      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 16h 10m 21s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest - 2019.07.24 at 16h 45m 34s.xml">
+      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest - 2019.07.24 at 17h 05m 59s.xml">
+      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 10m 48s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 14m 02s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 16m 31s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 39m 38s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 44m 39s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 18h 16m 33s.xml">
+      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 18h 19m 54s.xml">
       <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -374,13 +376,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13739377" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.17847025" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3371105" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.13739377" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32152975" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -418,16 +420,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/DriverPage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -450,8 +442,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyToDriveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -460,12 +462,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="359">
+          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
             <element signature="e#790#791#0" expanded="true" />
             <element signature="e#838#839#0" expanded="true" />
             <element signature="e#886#887#0" expanded="true" />
@@ -478,14 +480,16 @@
             <element signature="e#1386#1387#0" expanded="true" />
             <element signature="e#1541#1542#0" expanded="true" />
             <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1733#1734#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        <state relative-caret-position="352">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
