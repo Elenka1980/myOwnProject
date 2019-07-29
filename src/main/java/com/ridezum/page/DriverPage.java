@@ -9,6 +9,7 @@ import java.util.List;
 public class DriverPage extends BasePage{
 
     public DriverPage(WebDriver driver) {
+
         super(driver);
     }
 
@@ -37,6 +38,13 @@ public class DriverPage extends BasePage{
     private List<WebElement>submitButton;
 
 
+    @FindBy(css = "help-block")
+    private List<WebElement>helpBlock1;
+
+    @FindBy(css = "help-block")
+    private List<WebElement>helpBlock2;
+
+
 
     public void inputFirstName(String firstName)
     {
@@ -63,6 +71,20 @@ public class DriverPage extends BasePage{
     public void clickSubmitButton(int i) {
         submitButton.get(i).click();
     }
+
+    public String getHelpBlock1Field() {
+        return helpBlock1.get(4).getText();
+    }
+    public String getHelpBlock2Field() {
+        return helpBlock2.get(6).getText();
+    }
+    public void clearEmailField() {
+        emailField.clear();
+    }
+    public void clearPhoneNumber() {
+        phoneNumberField.clear();
+    }
+
 
 
 

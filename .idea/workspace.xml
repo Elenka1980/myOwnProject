@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4095e12f-da9c-4d60-aa25-ab17200ed167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ridezum/VerificationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ridezum/page/DriverPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ridezum/page/DriverPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ridezum/page/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ridezum/page/HomePage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,10 +26,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyJobTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="411">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/ApplyForThisJobPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/ApplyPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,76 +62,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/SubmitYourApplicationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/ViewJobsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="289">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/BaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyToDriveTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1043#1044#0" expanded="true" />
-                <element signature="e#790#791#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
-                <element signature="e#886#887#0" expanded="true" />
-                <element signature="e#928#929#0" expanded="true" />
-                <element signature="e#983#984#0" expanded="true" />
-                <element signature="e#1037#1038#0" expanded="true" />
-                <element signature="e#1179#1180#0" expanded="true" />
-                <element signature="e#1205#1206#0" expanded="true" />
-                <element signature="e#1359#1360#0" expanded="true" />
-                <element signature="e#1386#1387#0" expanded="true" />
-                <element signature="e#1541#1542#0" expanded="true" />
-                <element signature="e#1568#1569#0" expanded="true" />
-                <element signature="e#1733#1734#0" expanded="true" />
-                <element signature="e#1760#1761#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,10 +103,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ridezum/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyToDriveTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ridezum/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ridezum/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ridezum/VerificationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ridezum/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/ApplyForThisJobPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/ViewJobsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/ApplyPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ridezum/ApplyJobTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ridezum/page/SubmitYourApplicationPage.java" />
       </list>
     </option>
   </component>
@@ -145,11 +125,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="251" />
-    <option name="y" value="177" />
-    <option name="width" value="1355" />
-    <option name="height" value="810" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="182" />
+    <option name="y" value="191" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -224,6 +204,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ridezum.page" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,8 +223,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ApplyNowFieldsTest.testApplyNowFields">
-    <configuration name="ApplyNowFieldsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ApplyJobTest.testApplyJob">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ridezum.Main" />
+      <module name="myOwnProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ridezum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ridezum.Main1" />
+      <module name="myOwnProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ridezum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplyJobTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myOwnProject" />
       <extension name="coverage">
         <pattern>
@@ -247,13 +259,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ridezum" />
-      <option name="MAIN_CLASS_NAME" value="com.ridezum.ApplyNowFieldsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.ridezum.ApplyJobTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplyNowFieldsTest.testApplyNowFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ApplyJobTest.testApplyJob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myOwnProject" />
       <extension name="coverage">
         <pattern>
@@ -262,39 +274,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ridezum" />
-      <option name="MAIN_CLASS_NAME" value="com.ridezum.ApplyNowFieldsTest" />
-      <option name="METHOD_NAME" value="testApplyNowFields" />
+      <option name="MAIN_CLASS_NAME" value="com.ridezum.ApplyJobTest" />
+      <option name="METHOD_NAME" value="testApplyJob" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplyToDriveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VerificationTest.testVerification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myOwnProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ridezum.page.*" />
+          <option name="PATTERN" value="com.ridezum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ridezum" />
-      <option name="MAIN_CLASS_NAME" value="com.ridezum.ApplyToDriveTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplyToDriveTest.testApplyToDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myOwnProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ridezum.page.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ridezum" />
-      <option name="MAIN_CLASS_NAME" value="com.ridezum.ApplyToDriveTest" />
-      <option name="METHOD_NAME" value="testApplyToDrive" />
+      <option name="MAIN_CLASS_NAME" value="com.ridezum.VerificationTest" />
+      <option name="METHOD_NAME" value="testVerification" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -302,10 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ApplyNowFieldsTest.testApplyNowFields" />
-        <item itemvalue="JUnit.ApplyNowFieldsTest" />
-        <item itemvalue="JUnit.ApplyToDriveTest" />
-        <item itemvalue="JUnit.ApplyToDriveTest.testApplyToDrive" />
+        <item itemvalue="JUnit.ApplyJobTest.testApplyJob" />
+        <item itemvalue="JUnit.ApplyJobTest" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.VerificationTest.testVerification" />
       </list>
     </recent_temporary>
   </component>
@@ -323,35 +321,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 16h 10m 21s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.27 at 22h 21m 07s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest - 2019.07.24 at 16h 45m 34s.xml">
-      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.27 at 22h 43m 59s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest - 2019.07.24 at 17h 05m 59s.xml">
-      <configuration name="ApplyNowFieldsTest" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.27 at 22h 47m 17s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 10m 48s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.27 at 22h 49m 13s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 14m 02s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.27 at 22h 50m 22s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 16m 31s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.27 at 23h 04m 51s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 39m 38s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.28 at 19h 35m 13s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 17h 44m 39s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.28 at 20h 07m 38s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 18h 16m 33s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.28 at 20h 10m 16s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ApplyNowFieldsTest_testApplyNowFields - 2019.07.24 at 18h 19m 54s.xml">
-      <configuration name="ApplyNowFieldsTest.testApplyNowFields" configurationId="JUnit" />
+    <history-entry file="ApplyJobTest_testApplyJob - 2019.07.28 at 20h 22m 38s.xml">
+      <configuration name="ApplyJobTest.testApplyJob" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -364,10 +362,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="146" y="153" width="1152" height="620" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19597316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.264652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,15 +373,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.17847025" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4945055" visible="true" weight="0.11680328" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.04674221" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3371105" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.13739377" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32152975" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932885" weight="0.09490085" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50549453" side_tool="true" visible="true" weight="0.11680328" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49530202" weight="0.21529745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -393,20 +390,19 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
     </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myOwnProject$ApplyJobTest_testApplyJob.ic" NAME="ApplyJobTest.testApplyJob Coverage Results" MODIFIED="1564182567492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ridezum.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/pagefactory/DefaultElementLocator.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementListHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -420,10 +416,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/DriverPage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -442,57 +455,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyToDriveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="221">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/BasePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/VerificationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="561">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="432" column="8" selection-start-line="432" selection-start-column="8" selection-end-line="432" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementListHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/DriverPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        <state relative-caret-position="-565">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#928#929#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-            <element signature="e#1386#1387#0" expanded="true" />
-            <element signature="e#1541#1542#0" expanded="true" />
-            <element signature="e#1568#1569#0" expanded="true" />
-            <element signature="e#1733#1734#0" expanded="true" />
-            <element signature="e#1760#1761#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyNowFieldsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        <state relative-caret-position="476">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/ViewJobsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/ApplyForThisJobPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ridezum/ApplyJobTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/ApplyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ridezum/page/SubmitYourApplicationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
