@@ -1,7 +1,10 @@
 package com.ridezum;
 
 import com.ridezum.page.*;
+import org.junit.Assert;
 import org.junit.Test;
+
+import static com.sun.org.apache.xalan.internal.xsltc.compiler.sym.error;
 
 public class ApplyJobTest extends BaseTest {
 
@@ -35,6 +38,19 @@ public class ApplyJobTest extends BaseTest {
 
         submitYourApplicationPage = applyForThisJobPage.clickApplyForThisJobButton();
 
+        submitYourApplicationPage.inputName("Polina");
+        submitYourApplicationPage.inputEmail("famaley@ukr.net");
+        submitYourApplicationPage.inputPhone("9164993762");
+        submitYourApplicationPage.inputCurrentCompany("Cleo");
+        submitYourApplicationPage.inputLinkedln("www.linkedin.com/in/elena-shpak-225b19152");
+        submitYourApplicationPage.selectGender(2);
+        submitYourApplicationPage.selectRace(3);
+        submitYourApplicationPage.selectVeteran(1);
+        submitYourApplicationPage.clicksubmitApplicatinButton();
+
+        String errorField = submitYourApplicationPage.selectErrorNote();
+        System.out.println(errorField);
+        Assert.assertEquals("✱ Please attach a resume", errorField);
 
 
 
@@ -71,7 +87,10 @@ public class ApplyJobTest extends BaseTest {
 
 
 
-            //close curent window (tab)
+
+
+
+        //close curent window (tab)
             //driver.close();
 
             //Switch back
